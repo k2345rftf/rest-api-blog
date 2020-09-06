@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8137364-6541-476d-a5a7-40dcae6b53d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/REST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controller/ErrorController/ErrorController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controller/MainController/MainController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controller/RestAPIController/RestAPIController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/AbstractController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/AbstractModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/DI/DI.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/FrontController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Services/AbstractProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Services/Database/Provider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Services/Router/Provider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Services/View/Provider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Source/Database/Config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Source/Database/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Source/Router/RouteDispatched.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Source/Router/Router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Source/View/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Comments/Comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Posts/Posts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/show_are_got_data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1h1xm4gvc7NbOOlYsAO6FBkHK9i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Core/Services/View" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\REST\Core\Services\View" />
+      <recent name="C:\OSPanel\domains\REST\Core\Libs" />
+      <recent name="C:\OSPanel\domains\REST\Services\Router" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\REST\Core\Source" />
+      <recent name="C:\OSPanel\domains\REST\Core" />
+      <recent name="C:\OSPanel\domains\REST\Core\Libs" />
+      <recent name="C:\OSPanel\domains\REST" />
+      <recent name="C:\OSPanel\domains\REST\Controller\RestAPIController" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8137364-6541-476d-a5a7-40dcae6b53d9" name="Default Changelist" comment="" />
+      <created>1599192570396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599192570396</updated>
+      <workItem from="1599192603964" duration="14216000" />
+      <workItem from="1599217899604" duration="9563000" />
+      <workItem from="1599399885712" duration="1130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
